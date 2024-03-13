@@ -1,0 +1,7 @@
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\EDnevnik\EDnevnik\bin\Debug\EDnevnik.exe.config
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\EDnevnik\EDnevnik\bin\Debug\EDnevnik.exe
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\EDnevnik\EDnevnik\bin\Debug\EDnevnik.pdb
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\EDnevnik\EDnevnik\obj\Debug\EDnevnik.csproj.AssemblyReference.cache
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\EDnevnik\EDnevnik\obj\Debug\EDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\EDnevnik\EDnevnik\obj\Debug\EDnevnik.exe
+C:\Users\NikolaLoncarski\Desktop\SolidZadatak\EDnevnik\EDnevnik\obj\Debug\EDnevnik.pdb
