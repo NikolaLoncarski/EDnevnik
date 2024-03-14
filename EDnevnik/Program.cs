@@ -42,11 +42,12 @@ namespace EDnevnik
             grades.Add(baseGrade);
 
             IStudentService studentService = new StudentService();
-            ICourseService course = new Course();
+            ICourseService course = new CourseService();
+            
             IGradeService gradeservice = new GradeService();
 
             StudentUI StudentUI = new StudentUI(studentService);
-            GradeUI GradeUI = new GradeUI(studentService,gradeservice);
+            GradeUI GradeUI = new GradeUI(studentService,gradeservice, course);
             GradeStatisUI GradeStatisUI = new GradeStatisUI(gradeservice,studentService);
             
 

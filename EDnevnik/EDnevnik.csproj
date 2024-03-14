@@ -47,6 +47,7 @@
     <Compile Include="Interface\IGradeService.cs" />
     <Compile Include="Interface\IStudentService.cs" />
     <Compile Include="Model\Course.cs" />
+    <Compile Include="Model\CourseService.cs" />
     <Compile Include="Model\Grades.cs" />
     <Compile Include="Model\GradeService.cs" />
     <Compile Include="Model\Student.cs" />

@@ -12,15 +12,16 @@ namespace EDnevnik.UI
     {
         private readonly IStudentService _studentService;
         private readonly IGradeService _gradeService;
+        private readonly ICourseService _courseService;
 
 
-
-        ICourseService _courseService = new Course();
+   
         
-        public GradeUI(IStudentService studentService,IGradeService gradeService)
+        public GradeUI(IStudentService studentService,IGradeService gradeService,ICourseService courseService)
         {
             _studentService = studentService;
             _gradeService = gradeService;
+            _courseService = courseService;
 
 
         }

@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\ednevnik\\ednevnik\\model\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\model\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\ednevnik\\ednevnik\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\ui\\gradeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\ui\\gradeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\interface\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\interface\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\ui\\gradestatisui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\ui\\gradestatisui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\model\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\model\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|c:\\users\\nikolaloncarski\\desktop\\solidzadatak\\ednevnik\\ednevnik\\model\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\model\\gradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +43,8 @@
       "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\interface\\igradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\ui\\gradestatisui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\ui\\gradestatisui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\ui\\gradeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\ui\\gradeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\model\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\model\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\ui\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\interface\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\interface\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\ednevnik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20FD93E7-0C5C-4210-8493-E3DD824CDD0F}|EDnevnik\\EDnevnik.csproj|solutionrelative:ednevnik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +78,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\App.config",
+              "RelativeDocumentMoniker": "EDnevnik\\App.config",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\App.config",
+              "RelativeToolTip": "EDnevnik\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-14T14:05:33.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Model\\CourseService.cs",
+              "RelativeDocumentMoniker": "EDnevnik\\Model\\CourseService.cs",
+              "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Model\\CourseService.cs",
+              "RelativeToolTip": "EDnevnik\\Model\\CourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:00:16.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "StudentUI.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\UI\\StudentUI.cs",
               "RelativeDocumentMoniker": "EDnevnik\\UI\\StudentUI.cs",
@@ -82,56 +116,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GradeUI.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\UI\\GradeUI.cs",
               "RelativeDocumentMoniker": "EDnevnik\\UI\\GradeUI.cs",
               "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\UI\\GradeUI.cs",
               "RelativeToolTip": "EDnevnik\\UI\\GradeUI.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAYwB0AAAAcAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T10:25:15.618Z"
+              "WhenOpened": "2024-03-13T10:25:15.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GradeStatisUI.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\UI\\GradeStatisUI.cs",
               "RelativeDocumentMoniker": "EDnevnik\\UI\\GradeStatisUI.cs",
               "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\UI\\GradeStatisUI.cs",
               "RelativeToolTip": "EDnevnik\\UI\\GradeStatisUI.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAYwDIAAABYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T11:24:45.713Z"
+              "WhenOpened": "2024-03-13T11:24:45.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "ICourseService.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Interface\\ICourseService.cs",
               "RelativeDocumentMoniker": "EDnevnik\\Interface\\ICourseService.cs",
               "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Interface\\ICourseService.cs",
               "RelativeToolTip": "EDnevnik\\Interface\\ICourseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T09:13:34.069Z"
+              "WhenOpened": "2024-03-13T09:13:34.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "GradeService.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Model\\GradeService.cs",
               "RelativeDocumentMoniker": "EDnevnik\\Model\\GradeService.cs",
               "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Model\\GradeService.cs",
               "RelativeToolTip": "EDnevnik\\Model\\GradeService.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAQwDkAAAAYAAAA",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAkwG0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T10:54:22.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "IGradeService.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Interface\\IGradeService.cs",
               "RelativeDocumentMoniker": "EDnevnik\\Interface\\IGradeService.cs",
@@ -143,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Interface\\IStudentService.cs",
               "RelativeDocumentMoniker": "EDnevnik\\Interface\\IStudentService.cs",
@@ -155,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Model\\Student.cs",
               "RelativeDocumentMoniker": "EDnevnik\\Model\\Student.cs",
@@ -167,19 +204,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Model\\Course.cs",
               "RelativeDocumentMoniker": "EDnevnik\\Model\\Course.cs",
               "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Model\\Course.cs",
               "RelativeToolTip": "EDnevnik\\Model\\Course.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T09:05:18.438Z"
+              "WhenOpened": "2024-03-13T09:05:18.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Grades.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Model\\Grades.cs",
               "RelativeDocumentMoniker": "EDnevnik\\Model\\Grades.cs",
@@ -187,11 +225,12 @@
               "RelativeToolTip": "EDnevnik\\Model\\Grades.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T09:10:38.17Z"
+              "WhenOpened": "2024-03-13T09:10:38.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Model\\StudentService.cs",
               "RelativeDocumentMoniker": "EDnevnik\\Model\\StudentService.cs",
@@ -203,15 +242,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Program.cs",
               "RelativeDocumentMoniker": "EDnevnik\\Program.cs",
               "ToolTip": "C:\\Users\\NikolaLoncarski\\Desktop\\SolidZadatak\\EDnevnik\\EDnevnik\\Program.cs",
               "RelativeToolTip": "EDnevnik\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwCQAAAAwAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAC0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T08:53:20.717Z"
+              "WhenOpened": "2024-03-13T08:53:20.717Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -8,24 +8,11 @@ using System.Threading.Tasks;
 
 namespace EDnevnik.Model
 {
-   public class Course :ICourseService
+   public class Course 
     {
 
         public  string Name { get; set; }
 
-        public Course GetCoourse(string name, List<Course> courses)
-        {
-            Course item = courses.SingleOrDefault(s => s.Name == name);
-            return item;
-        }
-
-        public void WriteCourses(List<Course> courses)
-        {
-           foreach(Course course in courses)
-            {
-
-                Console.WriteLine("Course Name :   - " +  course.Name);
-            }
-        }
+   
     }
 }
