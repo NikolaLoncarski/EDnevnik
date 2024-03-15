@@ -84,7 +84,7 @@ namespace EDnevnik.UI
                         } else
                         {
                             oldGrade.CourseGrades.Add(gradeNumb);
-                            grades.Add(oldGrade);
+                     
                         }
                        
                     
